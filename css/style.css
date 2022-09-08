@@ -1,0 +1,56 @@
+.nav__menu>h1{
+   color: rgb(82, 193, 9);
+
+}
+.nav__menu-li{
+ color: rgb(151, 64, 27);
+}
+
+li>a{
+   color: rgb(217, 0, 141);
+}
+
+.text__blok-cat-dream{
+   color: blue;
+}
+.text__blok-cat-dream h2{
+   color: aqua;
+}
+
+.text__blok-cat-sits > p{
+   color: rgb(8, 158, 160);
+
+}
+.text__blok-cat-sits h2{
+   color: rgb(172, 5, 178);
+}
+
+.text__blok-cat-squints ~ p{
+   color: rgb(20, 169, 9);
+
+}
+.text__blok-cat-squints h2{
+   color: rgb(0, 140, 164);
+
+}
+.text__blok-cat-h2 + .list{
+   color: rgb(148, 23, 167);
+}
+.text__blok-info{
+   color: rgb(117, 20, 20);
+}
+.text__blok-info + h3{
+   color: rgb(22, 173, 62);
+}
+.text__blok-cat-evil > h2{
+   color: rgb(116, 127, 10);
+}
+.text__blok-cat-evil > img + p{
+   color: rgb(105, 144, 26);
+}
+.text__blok-cat-surprised >h2 {
+   color: rgb(57, 3, 151);
+}
+.text__blok-cat-surprised ~ h2{
+   color: rgb(115, 12, 12);
+}
